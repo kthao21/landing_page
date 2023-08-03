@@ -2,6 +2,8 @@
 
 ## Description
 
+<img width="1440" alt="Screenshot 2023-08-02 at 9 33 55 PM" src="https://github.com/kthao21/landing_page/assets/123515596/f6154cf5-d88b-465a-a703-cbeaa994f6cf">
+
 This project resembles my portfolio and reflects what I have learned and accomplished in this bootcamp class. In addition, you'll find information about me and where to contact me.
 
 ## Installation
